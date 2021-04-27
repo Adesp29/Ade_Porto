@@ -1,0 +1,18 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  background-color: rgb(154, 162, 163);
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: rgb(154, 162, 163);
+}
+
+section {
+  padding-top: 5rem;
+}
